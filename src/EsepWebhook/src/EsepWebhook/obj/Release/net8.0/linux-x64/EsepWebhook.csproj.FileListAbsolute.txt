@@ -16,3 +16,4 @@ C:\Users\micha\files\school\8-spring-2025\CIS4930-Enterprise_Software_Engineerin
 C:\Users\micha\files\school\8-spring-2025\CIS4930-Enterprise_Software_Engineering_Practices\assignment9\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\micha\files\school\8-spring-2025\CIS4930-Enterprise_Software_Engineering_Practices\assignment9\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\micha\files\school\8-spring-2025\CIS4930-Enterprise_Software_Engineering_Practices\assignment9\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\micha\files\school\8-spring-2025\CIS4930-Enterprise_Software_Engineering_Practices\assignment9\esep-webhooks\src\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
